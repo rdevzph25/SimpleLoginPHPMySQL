@@ -1,0 +1,15 @@
+.form-container {
+    margin: 0 auto;
+    display: block;
+    width: 360px; 
+    padding: 20px;
+  }
+  
+  body{
+    margin: 0 auto;
+    font: 14px sans-serif;
+  }
+  
+  .form-container input{
+    margin-bottom:10px;
+  }
