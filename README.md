@@ -1,1 +1,1 @@
-# Simple Login using PHP and MySQL.
+# Simple Login System using PHP and MySQL.
